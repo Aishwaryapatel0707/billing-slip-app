@@ -1,0 +1,16 @@
+	 Welcome to Retails
+
+ Bill number :		3744
+ Customer Name :		nikita
+ phone number:		156754638
+
+======================================
+ Product		 Qty		Price
+======================================
+pen		10		50
+book		2		50
+
+
+======================================
+Total Paybill Amount :			250
+======================================

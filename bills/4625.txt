@@ -1,0 +1,13 @@
+	 Welcome to Retails
+
+ Bill number :		4625
+ Customer Name :		hgstrhg
+ phone number:		43534262445
+
+======================================
+ Product		 Qty		Price
+======================================
+
+======================================
+Total Paybill Amount :			0
+======================================
