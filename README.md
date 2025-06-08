@@ -1,6 +1,1 @@
-# Billing Slip App
-A desktop billing application built using Tkinter and SQLite. Features include:
-- Customer entry
-- Itemized billing
-- Print & save bill
-- Auto bill number
+"# Billing Slip Application\n\nThis is a Tkinter + SQLite-based desktop app for retail billing." 
